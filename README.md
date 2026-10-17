@@ -30,13 +30,14 @@ Strategic and hands-on IT Manager with nearly 20 years of experience directing e
 - **Master of Management in Information Systems (M.M.S.I.)** – Gunadarma University (GPA: 3.86 / 4.00)
 - **Bachelor of Computer Science (S.Kom.)** – Indonesia Digital Technology University (GPA: 3.17 / 4.00)
 
----
-
 #### 📄 Published Research & Papers
+
 - **Evaluasi Integratif Kepatuhan ServiceNow terhadap ISO/IEC 20000-1:2018: Studi Kasus Perusahaan Sourcing Apparel**
   * *Authors:* **Ferdi Yunanto**, Lintang Yuniar Banowosari
   * *Journal:* Jurnal Ilmiah Komputasi (ISSN: 1412-9434, eISSN: 2549-7227)
   * *Focus:* Integrating ITSM compliance, ServiceNow operational performance audit, and ISO/IEC 20000-1:2018 framework implementation.
+
+---
 
 ### 📫 Get in Touch
 
